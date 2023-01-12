@@ -1,5 +1,5 @@
 
-# Telegram shop bot
+# Automatization with Selenium
 
 I created this scripts while work in GMS company. With this scripts
 I try to automate some part of my work when I need to test generating
